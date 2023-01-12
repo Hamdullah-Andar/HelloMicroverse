@@ -81,6 +81,7 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
+
 VSCode or any code editor, an operating system Linux, Windows, MacOS
 <!--
 Example command:
@@ -93,7 +94,10 @@ Example command:
 ### Setup
 
 Clone this repository to your desired folder:
+
 ```git clone git@github.com:Hamdullah-Andar/HelloMicroverse.git
+
+
 <!--
 Example commands:
 
@@ -106,6 +110,7 @@ Example commands:
 ### Install
 
 Install this project with:
+
 To setup linters: npm install
 <!--
 Example command:
@@ -119,6 +124,7 @@ Example command:
 ### Usage
 
 To run the project, execute the following command:
+
 If you have live server extension: localhost:3000
 <!--
 Example command:
