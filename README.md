@@ -81,7 +81,7 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
-
+VSCode or any code editor, an operating system Linux, Windows, MacOS
 <!--
 Example command:
 
@@ -93,7 +93,7 @@ Example command:
 ### Setup
 
 Clone this repository to your desired folder:
-
+```git clone git@github.com:Hamdullah-Andar/HelloMicroverse.git
 <!--
 Example commands:
 
@@ -106,7 +106,7 @@ Example commands:
 ### Install
 
 Install this project with:
-
+To setup linters: npm install
 <!--
 Example command:
 
@@ -119,7 +119,7 @@ Example command:
 ### Usage
 
 To run the project, execute the following command:
-
+If you have live server extension: localhost:3000
 <!--
 Example command:
 
@@ -127,32 +127,6 @@ Example command:
   rails server
 ```
 --->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
@@ -181,8 +155,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -190,8 +162,6 @@ If you like this project...
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank...
 
