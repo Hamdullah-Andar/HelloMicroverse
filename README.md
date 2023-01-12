@@ -96,14 +96,12 @@ Example command:
 Clone this repository to your desired folder:
 
 ```git clone git@github.com:Hamdullah-Andar/HelloMicroverse.git
-
-
 <!--
 Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone git@github.com:Hamdullah-Andar/HelloMicroverse.git
 ```
 --->
 
